@@ -1,1 +1,1 @@
-# Teo (primer juego con Tadeo Adams)
+# Teo 
